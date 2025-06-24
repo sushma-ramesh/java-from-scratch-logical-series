@@ -108,4 +108,15 @@ Every day focuses on **writing your own methods** like `reverseString()`, `sortA
 - Selection Sort:
      2 4 6 7 9
 
+##  Day 5: Searching – Linear and Binary (Manual)
 
+###  Files:
+- `SearchAlgorithms.java`
+
+###  What’s Inside:
+- `linearSearch()`  
+- `binarySearch()` (manual, assumes sorted array)
+
+###  Sample Output:
+- Linear Search: 7 found at index 3
+- Binary Search: 11 found at index 5
