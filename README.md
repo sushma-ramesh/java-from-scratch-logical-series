@@ -44,12 +44,12 @@ Every day focuses on **writing your own methods** like `reverseString()`, `sortA
 
 ###  Concepts Practiced:
 - Java syntax, loops, conditions
-- Creating methods
-- Manual implementation of math functions
+-  Creating methods
+-  Manual implementation of math functions
 
-### 📌 Sample Output:
-->   Addition: 15
-->   Multiplication: 12
-->    Power: 8
-->    Absolute of -10: 10
-->    Square of 5 is 25
+###  Sample Output:
+>   Addition: 15
+>   Multiplication: 12
+>    Power: 8
+>    Absolute of -10: 10
+>    Square of 5 is 25
