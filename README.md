@@ -90,3 +90,22 @@ Every day focuses on **writing your own methods** like `reverseString()`, `sortA
 - Length: 5
 - Equals Ignore Case: true
 - Uppercase: JAVA
+
+##  Day 4: Sorting – No Collections.sort()
+
+###  Files:
+- `SortingAlgorithms.java`
+
+### What’s Inside:
+- `bubbleSort()` implementation  
+- `selectionSort()` implementation  
+- `printArray()` utility
+
+###  Sample Output:
+- Bubble Sort:
+    1 2 3 5 8
+
+- Selection Sort:
+     2 4 6 7 9
+
+
