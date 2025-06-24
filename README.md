@@ -74,3 +74,19 @@ Every day focuses on **writing your own methods** like `reverseString()`, `sortA
 - 2
 - 4
 
+##  Day 3: Strings – Reverse, Length, Case Handling
+
+###  Files:
+- `MyStringUtils.java`
+
+### What’s Inside:
+- `reverse(String)` without `StringBuilder`  
+- `findLength(String)` without `.length()`  
+- `equalsIgnoreCase(String a, String b)`  
+- `toUpperCase(String)` manually
+
+###  Sample Output:
+- Reversed: olleH
+- Length: 5
+- Equals Ignore Case: true
+- Uppercase: JAVA
