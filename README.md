@@ -53,3 +53,24 @@ Every day focuses on **writing your own methods** like `reverseString()`, `sortA
 -    Power: 8
 -    Absolute of -10: 10
 -    Square of 5 is 25
+
+
+##  Day 2: Arrays – Manual Logic Without Arrays Class
+
+###  Files:
+- `MyArrayUtils.java`
+
+###  What’s Inside:
+- Print array elements manually  
+- Find sum of all elements  
+- Find maximum value  
+- Detect duplicates (without Set, Map)
+
+###  Sample Output:
+4 2 7 2 9 4 5
+Sum: 33
+Max: 9
+Duplicates:
+2
+4
+
