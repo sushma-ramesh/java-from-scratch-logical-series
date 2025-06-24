@@ -67,10 +67,10 @@ Every day focuses on **writing your own methods** like `reverseString()`, `sortA
 - Detect duplicates (without Set, Map)
 
 ###  Sample Output:
-4 2 7 2 9 4 5
-Sum: 33
-Max: 9
-Duplicates:
-2
-4
+- 4 2 7 2 9 4 5
+- Sum: 33
+- Max: 9
+- Duplicates:
+- 2
+- 4
 
