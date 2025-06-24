@@ -34,4 +34,22 @@ Every day focuses on **writing your own methods** like `reverseString()`, `sortA
 
 ---
 
+##  Day 1: Java Basics – No Inbuilt Shortcuts
 
+| File                     | Description                                         |
+|--------------------------|-----------------------------------------------------|
+| `SimpleCalculator.java`  | Custom methods for `add()`, `multiply()`, `power()` |
+| `SquarePrinter.java`     | Print square using manual logic                     |
+| `MyMathUtils.java`       | Manual `absolute()` method without `Math.abs()`     |
+
+###  Concepts Practiced:
+- Java syntax, loops, conditions
+- Creating methods
+- Manual implementation of math functions
+
+### 📌 Sample Output:
+->   Addition: 15
+->   Multiplication: 12
+->    Power: 8
+->    Absolute of -10: 10
+->    Square of 5 is 25
