@@ -48,8 +48,8 @@ Every day focuses on **writing your own methods** like `reverseString()`, `sortA
 -  Manual implementation of math functions
 
 ###  Sample Output:
->   Addition: 15
->   Multiplication: 12
->    Power: 8
->    Absolute of -10: 10
->    Square of 5 is 25
+-   Addition: 15
+-  Multiplication: 12
+-    Power: 8
+-    Absolute of -10: 10
+-    Square of 5 is 25
