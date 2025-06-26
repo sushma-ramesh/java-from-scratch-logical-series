@@ -142,3 +142,4 @@ Every day focuses on **writing your own methods** like `reverseString()`, `sortA
 - 3 appears 2 times.
 - 4 appears 1 times.
 - 5 appears 1 times.
+
