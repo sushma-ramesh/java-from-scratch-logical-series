@@ -177,3 +177,25 @@ Every day focuses on **writing your own methods** like `reverseString()`, `sortA
 - Popped: 30  
 - Popped: 20  
 - Is stack empty? false
+
+#  Day 9: Queue (Array-based) – Enqueue, Dequeue, Peek
+###  Files:
+- ArrayQueue.java
+
+###  What’s Inside:
+- enqueue(int) – Add element to the rear
+
+- dequeue() – Remove element from the front
+
+- peek() – View front element without removing
+
+- isEmpty() – Check if queue is empty
+
+- isFull() – Check if queue is full
+
+### Sample Output:
+
+- Front element (peek): 10  
+- Dequeued: 10  
+- Dequeued: 20  
+- Is queue empty? false
