@@ -120,3 +120,25 @@ Every day focuses on **writing your own methods** like `reverseString()`, `sortA
 ###  Sample Output:
 - Linear Search: 7 found at index 3
 - Binary Search: 11 found at index 5
+
+
+## Day 6: Custom Array Utilities – Manual Resize, Remove, Frequency
+###  Files:
+    - ArrayUtilities.java
+
+### What’s Inside:
+- resize(int[], int) – Manually resize array by adding a new element
+
+- remove(int[], int) – Remove all occurrences of a number from array manually
+
+- frequency(int[]) – Print frequency of each element manually (no Map or Collections)
+
+### Sample Output:
+
+- Resized: 2 3 2 4 5 3 6  
+- After removing 3: 2 2 4 5 6  
+- Frequency:
+- 2 appears 2 times.
+- 3 appears 2 times.
+- 4 appears 1 times.
+- 5 appears 1 times.
