@@ -157,3 +157,23 @@ Every day focuses on **writing your own methods** like `reverseString()`, `sortA
 - Is Palindrome (madam): true
 - Is Anagram (listen/silent): true
 - Word count: 5
+
+# Day 8: Stack (Array-based) – Push, Pop, Peek, IsEmpty
+ ### Files:
+- ArrayStack.java
+
+###  What’s Inside:
+- push(int) – Add an element to the top of the stack
+
+- pop() – Remove the top element
+
+- peek() – View the top element without removing
+
+- isEmpty() – Check if stack is empty
+
+- isFull() – Check if stack is full
+### Sample Output:
+- Top element (peek): 30  
+- Popped: 30  
+- Popped: 20  
+- Is stack empty? false
