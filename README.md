@@ -143,3 +143,17 @@ Every day focuses on **writing your own methods** like `reverseString()`, `sortA
 - 4 appears 1 times.
 - 5 appears 1 times.
 
+#  Day 7 – String Utilities
+
+###  File:
+- `StringUtilities.java`
+
+###  What's Inside:
+- `isPalindrome()` – Check if a string reads the same forward and backward  
+- `isAnagram()` – Check if two strings have same characters  
+- `wordCount()` – Count the number of words manually (no split)
+
+###  Sample Output:
+- Is Palindrome (madam): true
+- Is Anagram (listen/silent): true
+- Word count: 5
