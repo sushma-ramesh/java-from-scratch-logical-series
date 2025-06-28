@@ -121,7 +121,7 @@ Every day focuses on **writing your own methods** like `reverseString()`, `sortA
 - Linear Search: 7 found at index 3
 - Binary Search: 11 found at index 5
 
-
+---------------------------------------------------------------------------------------------------------
 ## Day 6: Custom Array Utilities – Manual Resize, Remove, Frequency
 ###  Files:
     - ArrayUtilities.java
@@ -143,6 +143,7 @@ Every day focuses on **writing your own methods** like `reverseString()`, `sortA
 - 4 appears 1 times.
 - 5 appears 1 times.
 
+-----------------------------------------------------------------------------------------------------
 #  Day 7 – String Utilities
 
 ###  File:
@@ -158,6 +159,7 @@ Every day focuses on **writing your own methods** like `reverseString()`, `sortA
 - Is Anagram (listen/silent): true
 - Word count: 5
 
+------------------------------------------------------------------------------------------
 # Day 8: Stack (Array-based) – Push, Pop, Peek, IsEmpty
  ### Files:
 - ArrayStack.java
@@ -178,6 +180,7 @@ Every day focuses on **writing your own methods** like `reverseString()`, `sortA
 - Popped: 20  
 - Is stack empty? false
 
+-------------------------------------------------------------------------------
 #  Day 9: Queue (Array-based) – Enqueue, Dequeue, Peek
 ###  Files:
 - ArrayQueue.java
@@ -199,8 +202,9 @@ Every day focuses on **writing your own methods** like `reverseString()`, `sortA
 - Dequeued: 10  
 - Dequeued: 20  
 - Is queue empty? false
-
-## ✅ Day 10: Singly Linked List – Manual Implementation
+  
+--------------------------------------------------------------------------------------
+## Day 10: Singly Linked List – Manual Implementation
 
 ### Files:
 - `Node.java`
@@ -213,3 +217,21 @@ Every day focuses on **writing your own methods** like `reverseString()`, `sortA
 
 ### Sample Output:
 Linked List: 10 -> 20 -> 30
+
+
+------------------------------------------------------------------
+
+##  Day 11: Recursion – Think Like a Function
+
+### Files:
+- `RecursionExamples.java`
+
+### Concepts:
+- Factorial using recursion
+- Fibonacci using recursion
+- Sum of digits
+
+### Sample Output:
+- Factorial of 5: 120
+- Fibonacci of 5: 5
+- Sum of digits (1234): 10
