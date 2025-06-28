@@ -199,3 +199,17 @@ Every day focuses on **writing your own methods** like `reverseString()`, `sortA
 - Dequeued: 10  
 - Dequeued: 20  
 - Is queue empty? false
+
+## ✅ Day 10: Singly Linked List – Manual Implementation
+
+### Files:
+- `Node.java`
+- `MyLinkedList.java`
+
+### Concepts:
+- Create nodes using classes
+- Add element at head and tail
+- Traverse and print the list
+
+### Sample Output:
+Linked List: 10 -> 20 -> 30
