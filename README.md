@@ -235,3 +235,23 @@ Linked List: 10 -> 20 -> 30
 - Factorial of 5: 120
 - Fibonacci of 5: 5
 - Sum of digits (1234): 10
+
+
+-------------------------------------------------------------------------
+
+##  Day 12: Manual Hashing – Build Simple Key-Value Store
+
+### Files:
+- `MyHashTable.java`
+
+### Concepts:
+- Hash function
+- Store and retrieve key-value pairs
+- Handle collisions with basic chaining (optional)
+
+## Sample Output:
+- Put (name, Alice)
+- Put (age, 25)
+- Get 'name': Alice
+
+
