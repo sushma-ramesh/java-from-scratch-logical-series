@@ -237,7 +237,7 @@ Linked List: 10 -> 20 -> 30
 - Sum of digits (1234): 10
 
 
--------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
 
 ##  Day 12: Manual Hashing – Build Simple Key-Value Store
 
@@ -253,5 +253,23 @@ Linked List: 10 -> 20 -> 30
 - Put (name, Alice)
 - Put (age, 25)
 - Get 'name': Alice
+---------------------------------------------------------------------------------------------------------------
 
+##  Day 13: Matrix Operations – Manual 2D Array Work
 
+### Files:
+- `MatrixOperations.java`
+
+### Concepts:
+- Matrix addition
+- Matrix multiplication
+- Matrix transpose
+
+### Sample Output:
+- Addition Result:
+- [3 5]
+- [7 9]
+
+- Multiplication Result:
+- [19 22]
+- [43 50]
