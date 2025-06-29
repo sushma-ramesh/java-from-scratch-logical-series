@@ -308,3 +308,21 @@ Linked List: 10 -> 20 -> 30
 - Car model: Swift
 - Owner: Priya
 - Speed: 120 km/h
+--------------------------------------------------------------------------------------------------------------------
+
+##  Day 16: Inheritance + Polymorphism
+
+### Files:
+- `Animal.java`
+- `Dog.java`
+- `Cat.java`
+
+### Concepts:
+- `extends` keyword
+- Method overriding
+- Polymorphism via parent references
+
+### Sample Output:
+- Animal speaks
+- Dog barks
+- Cat meows
