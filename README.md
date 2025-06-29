@@ -273,3 +273,22 @@ Linked List: 10 -> 20 -> 30
 - Multiplication Result:
 - [19 22]
 - [43 50]
+
+
+---------------------------------------------------------------------------------
+
+##  Day 14: Mini Project – Student Result Manager (Console)
+
+### Files:
+- `Student.java`
+- `ResultManager.java`
+
+### Features:
+- Store student info (name, marks)
+- Calculate average and grade
+- Print result card
+
+### Sample Output:
+- Student: Sushma
+- Total Marks: 270/300
+- Grade: A
