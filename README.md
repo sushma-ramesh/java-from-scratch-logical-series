@@ -292,3 +292,19 @@ Linked List: 10 -> 20 -> 30
 - Student: Sushma
 - Total Marks: 270/300
 - Grade: A
+-------------------------------------------------------------------------------------
+
+##  Day 15: OOP Basics – Build with Classes
+
+### Files:
+- `Car.java`, `Person.java`
+
+### Concepts:
+- Object creation
+- Getters and setters
+- Encapsulation and constructors
+
+### Sample Output:
+- Car model: Swift
+- Owner: Priya
+- Speed: 120 km/h
