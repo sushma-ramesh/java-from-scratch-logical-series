@@ -326,3 +326,35 @@ Linked List: 10 -> 20 -> 30
 - Animal speaks
 - Dog barks
 - Cat meows
+---
+
+##  Day 17: Interfaces & Abstract Classes
+
+### Files:
+- `Vehicle.java` (interface or abstract)
+- `Bike.java`, `Car.java`
+
+### Concepts:
+- `interface`, `implements`
+- `abstract` keyword
+- Method declarations and implementations
+
+### Sample Output:
+- Starting Bike...
+- Speed: 70 km/h
+
+---
+## Day 18: Exception Handling – Learn Try-Catch
+
+### Files:
+- `ExceptionDemo.java`
+- `CustomException.java`
+
+### Concepts:
+- `try-catch-finally`
+- `throw` and `throws`
+- Create your own exception class
+
+### Sample Output:
+- Enter age: -5
+- InvalidAgeException: Age must be positive
