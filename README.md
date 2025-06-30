@@ -54,7 +54,7 @@ Every day focuses on **writing your own methods** like `reverseString()`, `sortA
 -    Absolute of -10: 10
 -    Square of 5 is 25
 
-
+-------------------------------------------------------------------------------------------------------------------------------
 ##  Day 2: Arrays – Manual Logic Without Arrays Class
 
 ###  Files:
