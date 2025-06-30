@@ -107,7 +107,7 @@ Every day focuses on **writing your own methods** like `reverseString()`, `sortA
 
 - Selection Sort:
      2 4 6 7 9
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ##  Day 5: Searching – Linear and Binary (Manual)
 
 ###  Files:
