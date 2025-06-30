@@ -90,7 +90,7 @@ Every day focuses on **writing your own methods** like `reverseString()`, `sortA
 - Length: 5
 - Equals Ignore Case: true
 - Uppercase: JAVA
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 ##  Day 4: Sorting – No Collections.sort()
 
 ###  Files:
