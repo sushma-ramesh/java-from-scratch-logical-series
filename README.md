@@ -395,4 +395,17 @@ Linked List: 10 -> 20 -> 30
 - Days between: 9
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
+## ✅ Day 21: Mini Project – Library Console App
+
+### Files:
+- `Book.java`
+- `Library.java`
+- `Main.java`
+
+### Features:
+- Add, delete, view books
+- Search book by title/author
+- Console-based UI
+
+### Sample Output:
 
