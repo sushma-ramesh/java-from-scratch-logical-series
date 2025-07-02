@@ -408,4 +408,9 @@ Linked List: 10 -> 20 -> 30
 - Console-based UI
 
 ### Sample Output:
-
+- 1.Add Book
+- 2.View All
+- 3.Search
+- 4.Exit
+- Enter your choice: 1
+- Book added: Java Essentials
