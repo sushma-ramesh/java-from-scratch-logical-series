@@ -358,7 +358,8 @@ Linked List: 10 -> 20 -> 30
 ### Sample Output:
 - Enter age: -5
 - InvalidAgeException: Age must be positive
-
+  
+---------------------------------------------------------------------------------------------------------------------------------------------
 ##  Day 19: File I/O – Manual Read & Write
 
 ### Files:
@@ -375,3 +376,17 @@ Linked List: 10 -> 20 -> 30
 - Hello, this is a test file.
 
 - Writing to output.txt completed.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+## ✅ Day 20: Manual Date/Time – Without java.time APIs
+
+### Files:
+- `ManualDateDifference.java`
+
+### Concepts:
+- Represent a date using `int day, month, year`
+- Calculate number of days between two dates manually
+- Account for leap years, month lengths
+
+### Sample Output:
