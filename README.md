@@ -415,3 +415,19 @@ Linked List: 10 -> 20 -> 30
 - Enter your choice: 1
 - Book added: Java Essentials
 ----------------------------------------------------------------------------------------------------------------------------------------------
+##  Day 22: Build Your Own ArrayList – Dynamic Array
+
+### Files:
+- `MyArrayList.java`
+
+### Concepts:
+- Store elements in a basic `Object[]`
+- Implement `add()`, `get()`, `remove()`, `size()`
+- Auto-resize when array is full
+
+### Sample Output:
+- Adding elements: 10, 20, 30
+- Size: 3
+- Element at index 1: 20
+- Removing index 1...
+- Size after removal: 2
