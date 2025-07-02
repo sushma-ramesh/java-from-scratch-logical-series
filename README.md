@@ -358,3 +358,20 @@ Linked List: 10 -> 20 -> 30
 ### Sample Output:
 - Enter age: -5
 - InvalidAgeException: Age must be positive
+
+##  Day 19: File I/O – Manual Read & Write
+
+### Files:
+- `FileReaderExample.java`
+- `FileWriterExample.java`
+
+### Concepts:
+- Read from `.txt` using `FileReader`, `BufferedReader`
+- Write to `.txt` using `FileWriter`, `BufferedWriter`
+- Handle exceptions manually
+
+### Sample Output:
+- Reading from input.txt:
+- Hello, this is a test file.
+
+- Writing to output.txt completed.
