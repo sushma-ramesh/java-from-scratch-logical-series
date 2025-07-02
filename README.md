@@ -379,7 +379,7 @@ Linked List: 10 -> 20 -> 30
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-## ✅ Day 20: Manual Date/Time – Without java.time APIs
+##  Day 20: Manual Date/Time – Without java.time APIs
 
 ### Files:
 - `ManualDateDifference.java`
@@ -390,3 +390,8 @@ Linked List: 10 -> 20 -> 30
 - Account for leap years, month lengths
 
 ### Sample Output:
+- Start Date: 01-01-2023
+- End Date: 10-01-2023
+- Days between: 9
+
+
