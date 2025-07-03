@@ -449,3 +449,15 @@ Linked List: 10 -> 20 -> 30
 - Reversed: dlroWolleH
 - Length: 10
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+##  Day 24: Project – Expense Tracker (Console-Based)
+
+### Files:
+- `Expense.java`
+- `ExpenseTracker.java`
+
+### Features:
+- Add daily expenses (amount, category, note)
+- View all expenses
+- Total balance summary
+
+### Sample Output:
