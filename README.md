@@ -465,14 +465,14 @@ Linked List: 10 -> 20 -> 30
 - Total Spent: ₹250
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-## ✅ Day 25: Project Continuation – Filtering and Categories
+##  Day 25: Project Continuation – Filtering and Categories
 
-🔧 Files:
+### Files:
 - Update `ExpenseTracker.java`
 
-🔍 Features:
+### Features:
 - Filter by date, category
 - View expenses within date ranges
 - Track expense category totals
 
-📌 Sample Output:
+### Sample Output:
