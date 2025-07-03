@@ -461,3 +461,5 @@ Linked List: 10 -> 20 -> 30
 - Total balance summary
 
 ### Sample Output:
+- Added: ₹250 (Food) - "Lunch at cafe"
+- Total Spent: ₹250
