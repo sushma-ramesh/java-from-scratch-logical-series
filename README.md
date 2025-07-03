@@ -476,3 +476,7 @@ Linked List: 10 -> 20 -> 30
 - Track expense category totals
 
 ### Sample Output:
+- Filter by Category: Travel
+- ₹400 Uber
+- ₹120 Train
+- Total in Travel: ₹520
