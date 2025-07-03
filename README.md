@@ -463,3 +463,16 @@ Linked List: 10 -> 20 -> 30
 ### Sample Output:
 - Added: ₹250 (Food) - "Lunch at cafe"
 - Total Spent: ₹250
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+## ✅ Day 25: Project Continuation – Filtering and Categories
+
+🔧 Files:
+- Update `ExpenseTracker.java`
+
+🔍 Features:
+- Filter by date, category
+- View expenses within date ranges
+- Track expense category totals
+
+📌 Sample Output:
