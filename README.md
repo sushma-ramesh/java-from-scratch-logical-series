@@ -444,3 +444,8 @@ Linked List: 10 -> 20 -> 30
 - Manual resizing and efficiency
 
 ### Sample Output:
+- Appending: Hello
+- Appending: World
+- Result: HelloWorld
+- Reversed: dlroWolleH
+- Length: 10
