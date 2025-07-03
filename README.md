@@ -432,3 +432,15 @@ Linked List: 10 -> 20 -> 30
 - Removing index 1...
 - Size after removal: 2
 ---------------------------------------------------------------------------------------------------------------------------------------------
+
+##  Day 23: Build Your Own StringBuilder
+
+### Files:
+- `MyStringBuilder.java`
+
+### Concepts:
+- Use `char[]` internally
+- Implement `append()`, `length()`, `reverse()`
+- Manual resizing and efficiency
+
+### Sample Output:
