@@ -518,6 +518,20 @@ Linked List: 10 -> 20 -> 30
 ### Sample Output:
 - Using MyMathUtil.power(2, 3): 8
 - Using MyStringUtil.isPalindrome("madam"): true
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+##  Day 28: Final Project – Student Portal with Grade Generator
+
+### Files:
+- `Student.java`
+- `StudentPortal.java`
+
+### Features:
+- Register student, enter marks
+- Generate grade (A/B/C/F) based on average
+- Store and display student reports
+
+### Sample Output:
 
 
 
