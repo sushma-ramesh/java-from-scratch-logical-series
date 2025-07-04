@@ -481,3 +481,17 @@ Linked List: 10 -> 20 -> 30
 - ₹120 Train
 - Total in Travel: ₹520
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+
+##  Day 26: Build Login/Register System with File Storage
+
+### Files:
+- `User.java`
+- `AuthSystem.java`
+
+### Features:
+- Register user with username & password
+- Login with file-based verification
+- Store credentials in `.txt` securely (basic logic)
+
+### Sample Output:
+
