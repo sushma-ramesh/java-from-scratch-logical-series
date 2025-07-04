@@ -519,7 +519,6 @@ Linked List: 10 -> 20 -> 30
 - Using MyMathUtil.power(2, 3): 8
 - Using MyStringUtil.isPalindrome("madam"): true
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ##  Day 28: Final Project – Student Portal with Grade Generator
 
 ### Files:
@@ -532,6 +531,11 @@ Linked List: 10 -> 20 -> 30
 - Store and display student reports
 
 ### Sample Output:
+- Student: Ravi
+- Subjects: Math - 80, CS - 75, Eng - 85
+- Average: 80
+- Grade: A
+
 
 
 
