@@ -494,4 +494,10 @@ Linked List: 10 -> 20 -> 30
 - Store credentials in `.txt` securely (basic logic)
 
 ### Sample Output:
+> Welcome!
+- 1.Register
+- 2.Login
+- Enter choice: 1
+- User registered. Login to continue.
+
 
