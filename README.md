@@ -499,5 +499,26 @@ Linked List: 10 -> 20 -> 30
 - 2.Login
 - Enter choice: 1
 - User registered. Login to continue.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+## Day 27: Reusable Utility Classes
+
+ ### Files:
+- `MyStringUtil.java`
+- `MyArrayUtil.java`
+- `MyMathUtil.java`
+
+### Features:
+- Build a utility class library
+- Reuse functions like:
+  - `reverseString()`
+  - `findMax(int[])`
+  - `power(int, int)`
+  - `isPalindrome()`
+
+### Sample Output:
+- Using MyMathUtil.power(2, 3): 8
+- Using MyStringUtil.isPalindrome("madam"): true
+
+
 
 
