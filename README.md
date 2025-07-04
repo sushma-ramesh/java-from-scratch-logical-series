@@ -159,7 +159,7 @@ Every day focuses on **writing your own methods** like `reverseString()`, `sortA
 - Is Anagram (listen/silent): true
 - Word count: 5
 
-------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Day 8: Stack (Array-based) – Push, Pop, Peek, IsEmpty
  ### Files:
 - ArrayStack.java
