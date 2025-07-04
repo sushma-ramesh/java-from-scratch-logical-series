@@ -535,7 +535,17 @@ Linked List: 10 -> 20 -> 30
 - Subjects: Math - 80, CS - 75, Eng - 85
 - Average: 80
 - Grade: A
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+##  Day 29: Project Polish – Input Validation & Feedback
 
+### Enhancements:
+- Add try-catch to all user input
+- Prevent crash on invalid data
+- Validate email, marks, usernames
+
+### Sample:
+- Enter marks (0-100): -10
+- Invalid input. Please enter a number between 0 and 100.
 
 
 
