@@ -1,4 +1,4 @@
-# Java-From-scratch-logical-series
+# Java-From-Scratch-logical-series
 Learn Java from scratch by creating custom methods – no inbuilt shortcuts, just pure logic!
 
 # 30 Days of Java – Build Your Own Logic (No Inbuilt Shortcuts!)
