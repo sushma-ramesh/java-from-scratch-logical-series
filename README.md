@@ -180,7 +180,7 @@ Every day focuses on **writing your own methods** like `reverseString()`, `sortA
 - Popped: 20  
 - Is stack empty? false
 
--------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 #  Day 9: Queue (Array-based) – Enqueue, Dequeue, Peek
 ###  Files:
 - ArrayQueue.java
